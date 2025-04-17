@@ -217,7 +217,7 @@ async def list_genki_lessons_for_chapter(chapter_idx: str) -> str:
 
 @mcp.tool()
 async def list_genki_lessons() -> str:
-    """List all available Genki lessons with metadata.
+    """List all available Genki lessons in all chapters with metadata.
 
     Returns:
         A string summary of all available lessons, including lesson key, title, description, and page range.
@@ -257,6 +257,7 @@ def find_relevant_lessons_prompt(query: str) -> list[types.PromptMessage]:
         Given the following user query, return a Python list of the lesson_keys (e.g., ['chapter_1_lesson_2', ...]) that are most relevant to what the user is asking for. Only include lesson_keys that are a good match. If none are relevant, return an empty list.
 
         User query: {query}
+        lesson_keys: 
         """
     return [
         types.PromptMessage(
