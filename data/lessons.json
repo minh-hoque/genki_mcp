@@ -749,6 +749,191 @@
         "pages": [248, 249],
         "chapter_idx": 10
       },
-      
+      "chapter_11_lesson_1": {
+        "lesson_title": "Dialogue I–III – After the Vacation",
+        "lesson_description": "Michiko and Mary talk about their holidays, and John joins the conversation.",
+        "pages": [250, 251],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_2": {
+        "lesson_title": "Vocabulary – Travel, Leisure & Daily Life",
+        "lesson_description": "Key nouns, verbs, and occupation terms that appear throughout the chapter.",
+        "pages": [252, 253],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_3": {
+        "lesson_title": "Grammar 1 – 〜たい (Expressing Wants)",
+        "lesson_description": "Using verb‑stem + たい to say what you want to do and its related forms.",
+        "pages": [254, 255],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_4": {
+        "lesson_title": "Grammar 2 – 〜たり〜たりする (Such Things As …)",
+        "lesson_description": "Listing example activities with no fixed order using the past‑tense short form + り.",
+        "pages": [255, 256],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_5": {
+        "lesson_title": "Grammar 3 – 〜ことがある (Past Experiences)",
+        "lesson_description": "Talking about experiences you have (or have never) had before.",
+        "pages": [256, 256],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_6": {
+        "lesson_title": "Grammar 4 – Noun A や Noun B (Listing Examples)",
+        "lesson_description": "Using や to link nouns as non‑exhaustive examples.",
+        "pages": [256, 256],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_7": {
+        "lesson_title": "Expression Notes – Negative は, だけ, に, には",
+        "lesson_description": "Usage tips for particles in negatives, limited quantities, occasions, and place descriptions.",
+        "pages": [257, 258],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_8": {
+        "lesson_title": "Practice I – ハンバーガーを食べたいです",
+        "lesson_description": "Exercises on forming and answering 〜たい / 〜たくない sentences.",
+        "pages": [259, 260],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_9": {
+        "lesson_title": "Practice II – 掃除したり、洗濯したりします",
+        "lesson_description": "Activities using 〜たり〜たりする to describe varied weekend actions.",
+        "pages": [261, 261],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_10": {
+        "lesson_title": "Practice III – 有名人に会ったことがありますか",
+        "lesson_description": "Drills on 〜ことがある for asking and stating past experiences.",
+        "pages": [262, 262],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_11": {
+        "lesson_title": "Practice IV – すしや天ぷらをよく食べます",
+        "lesson_description": "Pair‑work questions that practice listing examples with や.",
+        "pages": [263, 263],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_12": {
+        "lesson_title": "Practice V – まとめの練習 (Chapter Wrap‑Up)",
+        "lesson_description": "Speaking tasks about future dreams and class surveys integrating all new grammar.",
+        "pages": [263, 264],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_13": {
+        "lesson_title": "Culture Note – お正月 (New Year’s in Japan)",
+        "lesson_description": "Customs, food, greetings and shrine visits associated with Japanese New Year.",
+        "pages": [264, 264],
+        "chapter_idx": 11
+      },
+      "chapter_11_lesson_14": {
+        "lesson_title": "Useful Expressions – 日本語のクラスで",
+        "lesson_description": "Classroom phrases, commands and study‑related vocabulary for Japanese courses.",
+        "pages": [265, 265],
+        "chapter_idx": 11
+      },
+      "chapter_12_lesson_1": {
+        "lesson_title": "Dialogue I & II – Feeling Ill / At the Hospital",
+        "lesson_description": "Mary tells Michiko she feels sick, then visits a doctor and receives advice.",
+        "pages": [266, 267],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_2": {
+        "lesson_title": "Vocabulary – Health, Weather & Daily Life",
+        "lesson_description": "Key nouns, adjectives, verbs and expressions used in the chapter’s health theme.",
+        "pages": [268, 269],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_3": {
+        "lesson_title": "Grammar 1 – 〜んです (Explaining & Clarifying)",
+        "lesson_description": "Using んです／のです to give reasons, seek clarification, or add explanatory nuance.",
+        "pages": [270, 271],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_4": {
+        "lesson_title": "Grammar 2 – 〜すぎる (Too Much / Excess)",
+        "lesson_description": "Attaching すぎる to verb stems and adjective bases to express excess.",
+        "pages": [272, 272],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_5": {
+        "lesson_title": "Grammar 3 – 〜ほうがいいです (Giving Advice)",
+        "lesson_description": "Forming affirmative and negative advice sentences with ほうがいいです.",
+        "pages": [272, 272],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_6": {
+        "lesson_title": "Grammar 4 – 〜ので (Reason / Cause)",
+        "lesson_description": "Using ので (formal) instead of から to explain reasons politely.",
+        "pages": [273, 273],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_7": {
+        "lesson_title": "Grammar 5 – 〜なければ／〜なきゃいけません (Must / Have to)",
+        "lesson_description": "Expressing obligation with the formal なければいけません and colloquial なきゃいけません.",
+        "pages": [273, 274],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_8": {
+        "lesson_title": "Grammar 6 – 〜でしょう／だろう (Probably / I Suppose)",
+        "lesson_description": "Making predictions, soft assertions and opinion‑seeking questions with でしょう and だろう.",
+        "pages": [274, 275],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_9": {
+        "lesson_title": "Practice I – どうしたんですか",
+        "lesson_description": "Exercises on using んです to explain situations and respond to questions.",
+        "pages": [276, 278],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_10": {
+        "lesson_title": "Practice II – 食べすぎました",
+        "lesson_description": "Activities on 〜すぎる for excessive actions and adjective use.",
+        "pages": [278, 279],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_11": {
+        "lesson_title": "Practice III – 薬を飲んだほうがいいです",
+        "lesson_description": "Role‑play and advice‑giving with 〜ほうがいい.",
+        "pages": [280, 281],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_12": {
+        "lesson_title": "Practice IV – いい天気なので、散歩します",
+        "lesson_description": "Sentence‑combining drills using 〜ので to state reasons.",
+        "pages": [281, 281],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_13": {
+        "lesson_title": "Practice V – 七時に起きなければいけません",
+        "lesson_description": "Scheduling and obligation exercises with 〜なければ／〜なきゃいけません.",
+        "pages": [282, 283],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_14": {
+        "lesson_title": "Practice VI – あしたは晴れるでしょう",
+        "lesson_description": "Weather‑forecast role‑plays practicing the probabilistic 〜でしょう.",
+        "pages": [283, 284],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_15": {
+        "lesson_title": "Practice VII – まとめの練習 (Chapter Wrap‑Up)",
+        "lesson_description": "Skits, scheduling discussions and doctor–patient role‑plays that integrate all new grammar.",
+        "pages": [284, 285],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_16": {
+        "lesson_title": "Culture Note – 日本の気候 (The Japanese Climate)",
+        "lesson_description": "Regional climate facts, seasonal patterns and vocabulary on Japanese weather.",
+        "pages": [286, 286],
+        "chapter_idx": 12
+      },
+      "chapter_12_lesson_17": {
+        "lesson_title": "Useful Expressions – 健康と病気 (Health & Illness)",
+        "lesson_description": "Reception phrases, clinic vocabulary and common illness expressions.",
+        "pages": [287, 288],
+        "chapter_idx": 12
+      }
   }
   
