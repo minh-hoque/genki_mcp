@@ -33,7 +33,7 @@ Genki MCP
 │   ├── chapter_metadata.json            # Chapter metadata (conversational chapters only)
 │   ├── lessons.json                     # Lesson-level metadata (conversational content)
 │   ├── pages.json                       # Page-level extracted text (conversational content)
-│   └── pdf_images/                      # (Likely) contains images of PDF pages (user-generated)
+│   └── pdf_images/                      # (Likely) contains images of PDF pages (user-generated) (not included in repo)
 ├── image/
 │   └── genki_mcp_logo.png               # Project logo
 ├── notebooks/
