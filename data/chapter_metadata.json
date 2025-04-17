@@ -1,0 +1,67 @@
+{
+  "0": {
+      "title": "Genki I - Chapter 0: Greetings & Expressions",
+      "description": "Covers essential greetings, classroom expressions, and daily phrases.",
+      "pages": [34, 37]
+  },
+  "1": {
+      "title": "Genki I - Chapter 1: New Friends",
+      "description": "Introduces self-introductions, time expressions, and basic sentence structure.",
+      "pages": [38, 57]
+  },
+  "2": {
+      "title": "Genki I - Chapter 2: Shopping",
+      "description": "Introduces shopping phrases, demonstratives (これ/それ/あれ), and sentence-ending particles.",
+      "pages": [58, 83]
+  },
+  "3": {
+      "title": "Genki I - Chapter 3: Making a Date",
+      "description": "Covers verb conjugation, verb types, time references, and word order.",
+      "pages": [84, 101]
+  },
+  "4": {
+      "title": "Genki I - Chapter 4: The First Date",
+      "description": "Covers describing locations, past tense, and particles for quantity.",
+      "pages": [102, 127]
+  },
+  "5": {
+      "title": "Genki I - Chapter 5: A Trip to Okinawa",
+      "description": "Covers adjectives, making suggestions, and counting.",
+      "pages": [128, 145]
+  },
+  "6": {
+      "title": "Genki I - Chapter 6: A Day in Robert's Life",
+      "description": "Covers te-form usage, giving instructions, combining activities, and expressing reasons.",
+      "pages": [146, 165]
+  },
+  "7": {
+      "title": "Genki I - Chapter 7: Family Picture",
+      "description": "Covers describing appearance, te-form for combining sentences, and counting people.",
+      "pages": [166, 185]
+  },
+  "8": {
+      "title": "Genki I - Chapter 8: Barbecue",
+      "description": "Covers short forms, informal speech, expressing preferences, and conjunction particles.",
+      "pages": [186, 207]
+  },
+  "9": {
+      "title": "Genki I - Chapter 9: Kabuki",
+      "description": "Covers past tense short forms, qualifying nouns with verbs/adjectives, and expressions like まだ〜ていません and 〜から.",
+      "pages": [208, 227]
+  },
+  "10": {
+      "title": "Genki I - Chapter 10: Winter Vacation Plans",
+      "description": "Covers comparisons between two or more items, using 〜つもりだ, adjective + なる, and location expressions like どこかに.",
+      "pages": [228, 249]
+  },
+  "11": {
+      "title": "Genki I - Chapter 11: After the Vacation",
+      "description": "Covers expressing desires with 〜たい, listing actions with 〜たり〜たりする, and expressing experiences with 〜ことがある.",
+      "pages": [250, 265]
+  },
+  "12": {
+      "title": "Genki I - Chapter 12: Feeling III",
+      "description": "Covers explanatory 〜んです, excessiveness with 〜すぎる, advice with 〜ほうがいいです, reasons with 〜ので, and obligation expressions.",
+      "pages": [266, null]
+  }
+}

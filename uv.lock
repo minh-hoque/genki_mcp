@@ -171,10 +171,14 @@ dependencies = [
     { name = "ipykernel" },
     { name = "mcp", extra = ["cli"] },
     { name = "openai" },
+    { name = "python-dotenv" },
+]
+
+[package.optional-dependencies]
+dev = [
     { name = "pdf2image" },
     { name = "pillow" },
     { name = "pytesseract" },
-    { name = "python-dotenv" },
 ]
 
 [package.metadata]
@@ -183,11 +187,12 @@ requires-dist = [
     { name = "ipykernel", specifier = ">=6.29.5" },
     { name = "mcp", extras = ["cli"], specifier = ">=1.6.0" },
     { name = "openai", specifier = ">=1.74.0" },
-    { name = "pdf2image", specifier = ">=1.17.0" },
-    { name = "pillow", specifier = ">=11.2.1" },
-    { name = "pytesseract", specifier = ">=0.3.13" },
+    { name = "pdf2image", marker = "extra == 'dev'", specifier = ">=1.17.0" },
+    { name = "pillow", marker = "extra == 'dev'", specifier = ">=11.2.1" },
+    { name = "pytesseract", marker = "extra == 'dev'", specifier = ">=0.3.13" },
     { name = "python-dotenv", specifier = ">=1.1.0" },
 ]
+provides-extras = ["dev"]
 
 [[package]]
 name = "h11"

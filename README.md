@@ -1,17 +1,23 @@
-# Genki MCP
+<h1 align="center">
+Genki MCP
+</h1>
+
+<p align="center">
+<img src="./image/genki_mcp_logo.png" alt="genki_mcp" width="500"/>
+</p>
 
 ## Project Overview
 
-**genki-mcp** is a Python project that serves structured content from the "Genki I" Japanese textbook. It exposes chapter content and metadata via an MCP (Modular Command Platform) server, using pre-extracted text. The project is designed for language learners, educators, and developers interested in building tools or bots around the Genki textbook.
+**genki-mcp** is a Python project inspired by the structure and content of the "Genki I" Japanese textbook. It provides structured chapter outlines and metadata, designed for language learners, educators, and developers interested in building tools or bots around the Genki textbook. This project does **not** include or distribute the original copyrighted text from the Genki book. Any references to content are based on publicly available information and user-supplied data.
 
 ---
 
 ## Features
 
-- **Chapter Structuring**: Organizes extracted text by textbook chapters, with metadata and page ranges.
-- **MCP Server**: Exposes chapter content and metadata via an MCP server, enabling integration with bots, chat interfaces, or other tools.
-- **Extensible Tools**: Provides MCP tools to list chapters and retrieve chapter content programmatically.
-- **Jupyter Notebook (Optional)**: Includes a notebook for PDF parsing and OCR experimentation (requires Tesseract, only if you want to re-extract text).
+- **Chapter Structuring**: Organizes chapter outlines and metadata inspired by the Genki textbook, with page ranges and summaries.
+- **MCP Server**: Exposes chapter metadata and user-supplied content via an MCP (Modular Command Platform) server, enabling integration with bots, chat interfaces, or other tools.
+- **Extensible Tools**: Provides MCP tools to list chapters and retrieve chapter outlines programmatically.
+- **Jupyter Notebook (Optional)**: Includes a notebook for PDF parsing and OCR experimentation (requires Tesseract, only if you want to re-extract text from your own legally obtained copy).
 
 ---
 
@@ -23,10 +29,10 @@
 ├── pyproject.toml           # Project metadata and dependencies
 ├── .env                     # Environment variables (e.g., OpenAI API key)
 ├── data/
-│   ├── Genki Textbook 2nd Edition.pdf   # Source textbook PDF (not included in repo)
-│   └── pdf_images/          # (Likely) contains images of PDF pages
+│   ├── Genki Textbook 2nd Edition.pdf   # (User-supplied) source textbook PDF (not included in repo)
+│   └── pdf_images/          # (Likely) contains images of PDF pages (user-generated)
 ├── output/
-│   └── extracted_text.json  # Extracted and OCR'd text, organized by page
+│   └── extracted_text.json  # Extracted and OCR'd text, organized by page (user-generated)
 ├── notebooks/
 │   └── scanned_pdf_parsing.ipynb # Jupyter notebook for PDF/OCR processing (optional)
 └── README.md                # This file
@@ -46,12 +52,22 @@
    - On macOS: `brew install uv`
    - On Ubuntu: `curl -Ls https://astral.sh/uv/install.sh | sh`
 
-3. **Install dependencies with uv:**
+3. **Install dependencies (recommended, reproducible):**
    ```bash
-   uv pip install -r pyproject.toml
+   uv pip sync
+   ```
+   This will install all dependencies exactly as specified in the lockfile (`uv.lock`).  
+   If you do not have a lockfile yet, generate one with:
+   ```bash
+   uv pip compile pyproject.toml
    ```
 
-4. **Set up environment variables:**
+4. **(Optional) Install development dependencies:**
+   ```bash
+   uv pip sync --dev
+   ```
+
+5. **Set up environment variables:**
    - Copy `.env.example` to `.env` and add your OpenAI API key (required for some features).
 
 ---
@@ -60,30 +76,53 @@
 
 ### 1. **Run the MCP Server**
 
-The MCP server uses the already extracted text in `output/extracted_text.json`.
+The MCP server uses structured chapter data and, optionally, user-supplied extracted text in `output/extracted_text.json`.
 
 ```bash
-uv pip install -r pyproject.toml  # Ensure dependencies are installed
+uv pip sync           # Ensure dependencies are installed and up to date
 uv run main.py
 ```
 
-- The server will load the extracted text and expose MCP tools for chapter retrieval and listing.
+- The server will load the structured data and expose MCP tools for chapter retrieval and listing.
+- If you wish to use your own extracted text, ensure it is placed in `output/extracted_text.json`.
 
 ### 2. **Available MCP Tools**
 
-- `get_genki_chapter(chapter_number: str)`: Retrieve structured text for a specific chapter.
+- `get_genki_chapter(chapter_number: str)`: Retrieve structured outline for a specific chapter.
 - `list_genki_chapters()`: List all available chapters with metadata.
 
 These tools can be called programmatically or integrated into bots and chat interfaces using the MCP framework.
 
 ---
 
+## Managing Dependencies
+
+- **Add a new dependency:**  
+  ```bash
+  uv add <package-name>
+  ```
+- **Add a dev dependency:**  
+  ```bash
+  uv add --dev <package-name>
+  ```
+- **Update all dependencies:**  
+  ```bash
+  uv pip compile --upgrade pyproject.toml
+  uv pip sync
+  ```
+- **Sync environment to lockfile:**  
+  ```bash
+  uv pip sync
+  ```
+
+---
+
 ## Optional: Extract Text from PDF (For Developers)
 
-- If you want to re-extract text from the Genki PDF, use the Jupyter notebook `notebooks/scanned_pdf_parsing.ipynb`.
+- If you want to extract text from your own legally obtained copy of the Genki PDF, use the Jupyter notebook `notebooks/scanned_pdf_parsing.ipynb`.
 - **This step requires [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) and is not needed for running the MCP server.**
 - The output will be saved as `output/extracted_text.json`.
-- You must provide your own copy of "Genki Textbook 2nd Edition.pdf" in the `data/` directory.
+- You must provide your own copy of "Genki Textbook 2nd Edition.pdf" in the `data/` directory. This repository does not provide or distribute the textbook or its copyrighted content.
 
 ---
 
@@ -100,7 +139,7 @@ These tools can be called programmatically or integrated into bots and chat inte
 - [uv](https://github.com/astral-sh/uv) (for dependency management)
 - [mcp](https://pypi.org/project/mcp/) (Modular Command Platform)
 - openai, httpx, ipykernel, pdf2image, pillow, pytesseract, python-dotenv
-- **Tesseract OCR is only required if you want to use the notebook for re-extraction.**
+- **Tesseract OCR is only required if you want to use the notebook for re-extraction from your own copy.**
 
 All Python dependencies are listed in `pyproject.toml`.
 

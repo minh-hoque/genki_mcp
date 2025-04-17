@@ -1,0 +1,754 @@
+{
+    "chapter_0_lesson_1": {
+        "lesson_title": "Basic Greetings and Farewells",
+        "lesson_description": "Fundamental greetings, farewells, and polite responses such as おはよう, こんにちは, こんばんは, さようなら, and ありがとうございます.",
+        "pages": [34, 35],
+        "chapter_idx": 0
+      },
+      "chapter_0_lesson_2": {
+        "lesson_title": "Daily Household Expressions",
+        "lesson_description": "Common phrases used at home (いってきます, いってらっしゃい, ただいま, おかえりなさい, いただきます, ごちそうさまでした) with their romanized forms and English meanings.",
+        "pages": [35, 35],
+        "chapter_idx": 0
+      },
+      "chapter_0_lesson_3": {
+        "lesson_title": "Expression Notes 1",
+        "lesson_description": "Pragmatic and cultural notes on formality levels, context‑appropriate good‑byes, multiple senses of すみません, and the ittekimasu/itterasshai exchange.",
+        "pages": [36, 36],
+        "chapter_idx": 0
+      },
+      "chapter_0_lesson_4": {
+        "lesson_title": "Practice Scenarios",
+        "lesson_description": "Role‑play exercises for students to act out greetings and responses in everyday situations (host family introductions, classroom greetings, trains, mealtime, etc.).",
+        "pages": [37, 37],
+        "chapter_idx": 0
+      },
+      "chapter_0_lesson_5": {
+        "lesson_title": "Culture Note: Greetings and Bowing",
+        "lesson_description": "Discussion of Japanese bowing etiquette, degrees of formality, and business‑card exchange customs.",
+        "pages": [37, 37],
+        "chapter_idx": 0
+      },
+      "chapter_1_lesson_1": {
+        "lesson_title": "Dialogue – New Friends (かいわ)",
+        "lesson_description": "Model conversations between Mary and Takeshi that introduce asking the time, self‑introductions, majors, year in school, and polite/casual responses. Includes romaji, English translations, and an illustrated scene.",
+        "pages": [38, 39],
+        "chapter_idx": 1
+      },
+      "chapter_1_lesson_2": {
+        "lesson_title": "Core & Extended Vocabulary (たんご)",
+        "lesson_description": "Essential Lesson‑1 vocabulary plus extended thematic lists for Countries, Majors, Occupations, and Family terms. All items appear with kana/kanji, romaji, and English glosses.",
+        "pages": [40, 41],
+        "chapter_idx": 1
+      },
+      "chapter_1_lesson_3": {
+        "lesson_title": "Grammar Fundamentals 1",
+        "lesson_description": "Key patterns: ① XはYです statements, ② yes/no & WH‑questions with か and なん／なに, and ③ noun₁ の noun₂ possession/description. Includes particle notes (は, の), subject omission, and culture note on Japanese names.",
+        "pages": [42, 45],
+        "chapter_idx": 1
+      },
+      "chapter_1_lesson_4": {
+        "lesson_title": "Expression & Usage Notes (表現ノート 2)",
+        "lesson_description": "Pragmatic expressions (あの, はい／ええ, そうですか), correct pronunciation/writing of the particle は, number‑reading variants, honorific titles (さん／せんせい), and guidelines for addressing others in Japanese.",
+        "pages": [46, 47],
+        "chapter_idx": 1
+      },
+      "chapter_1_lesson_5": {
+        "lesson_title": "Practice & Review Activities",
+        "lesson_description": "Comprehensive drills: numbers 0‑100, telling time, reading telephone numbers, の‑phrase translations, Q&A about classmates and host family, review exercises, role‑plays, and useful expression charts for time and age.",
+        "pages": [48, 57],
+        "chapter_idx": 1
+      },
+      "chapter_2_lesson_1": {
+        "lesson_title": "Dialogues: Shopping, Lost‑and‑Found, and Restaurant",
+        "lesson_description": "Three short conversations covering asking prices at a flea market, returning a lost wallet, and ordering food in a restaurant.",
+        "pages": [58, 59],
+        "chapter_idx": 2
+      },
+      "chapter_2_lesson_2": {
+        "lesson_title": "Vocabulary: Words That Point, Food, and Everyday Items",
+        "lesson_description": "Core word lists for demonstratives, locations, food, common objects, places, majors, family, money matters, and stock expressions used in stores.",
+        "pages": [60, 61],
+        "chapter_idx": 2
+      },
+      "chapter_2_lesson_3": {
+        "lesson_title": "Grammar Part 1: Demonstratives & Location Words",
+        "lesson_description": "Introduces これ／それ／あれ／どれ, この／その／あの／どの + noun, and ここ／そこ／あそこ／どこ, with usage notes and sample questions.",
+        "pages": [62, 64],
+        "chapter_idx": 2
+      },
+      "chapter_2_lesson_4": {
+        "lesson_title": "Grammar Part 2: Particle も and Negative じゃないです",
+        "lesson_description": "Covers noun + も for ‘also’, basic negative forms (じゃないです／じゃありません／ではありません), and sentence‑ending tags ね and よ.",
+        "pages": [65, 66],
+        "chapter_idx": 2
+      },
+      "chapter_2_lesson_5": {
+        "lesson_title": "Expression Notes 3: Requests & Number Pronunciation",
+        "lesson_description": "Explains （〜を）ください, （〜を）おねがいします, （〜を）どうぞ, plus sound changes in 100‑/1 000‑series numbers and how to read large numbers.",
+        "pages": [67, 67],
+        "chapter_idx": 2
+      },
+      "chapter_2_lesson_6": {
+        "lesson_title": "Culture Note: Japanese Currency",
+        "lesson_description": "Overview of yen bills and coins, notable portraits, everyday use of cash vs. cards, and prepaid transit cards.",
+        "pages": [68, 68],
+        "chapter_idx": 2
+      },
+      "chapter_2_lesson_7": {
+        "lesson_title": "Practice ①–②: Numbers and Asking Prices",
+        "lesson_description": "Reading numbers up to 90 000 and pair‑work questions on item prices using いくら and 円.",
+        "pages": [69, 70],
+        "chapter_idx": 2
+      },
+      "chapter_2_lesson_8": {
+        "lesson_title": "Practice ③–V: Demonstratives, Places, and Ownership",
+        "lesson_description": "Activities using これ／それ／あれ, naming classroom objects, giving directions with どこ, and asking だれの about possessions.",
+        "pages": [71, 75],
+        "chapter_idx": 2
+      },
+      "chapter_2_lesson_9": {
+        "lesson_title": "Practice VI–VII: も and Negative Forms",
+        "lesson_description": "Picture‑based drills for noun + も (‘also’) and Q‑A exercises that negate statements with じゃないです, plus nationality/major charts.",
+        "pages": [75, 77],
+        "chapter_idx": 2
+      },
+      "chapter_2_lesson_10": {
+        "lesson_title": "Review Role‑Plays & Pair Work",
+        "lesson_description": "Customer–store‑clerk and restaurant ordering role‑plays, pricing card games, and ownership Q‑A using dialogue models.",
+        "pages": [78, 82],
+        "chapter_idx": 2
+      },
+      "chapter_2_lesson_11": {
+        "lesson_title": "Useful Classroom Expressions",
+        "lesson_description": "Essential phrases for classroom interaction (わかりましたか, もういちど いってください, etc.) and common classroom objects.",
+        "pages": [83, 83],
+        "chapter_idx": 2
+      },
+      "chapter_3_lesson_1": {
+        "lesson_title": "Dialogues: Making a Date & Sunday Morning",
+        "lesson_description": "Takeshi invites Mary to a movie and Mary chats with her host mother before a day‑trip to Kyoto.",
+        "pages": [84, 85],
+        "chapter_idx": 3
+      },
+      "chapter_3_lesson_2": {
+        "lesson_title": "Vocabulary: Leisure, Food, Time, and Core Verbs",
+        "lesson_description": "Key nouns for entertainment, meals, places, and time; full verb list (u‑verbs, ru‑verbs, irregulars), adjectives, adverbs, and set expressions that appear in this chapter.",
+        "pages": [86, 87],
+        "chapter_idx": 3
+      },
+      "chapter_3_lesson_3": {
+        "lesson_title": "Grammar Part 1: Verb Conjugation Classes",
+        "lesson_description": "Forms and stems for ru‑verbs, u‑verbs, and the two irregular verbs (する, くる) in dictionary, ます, and ません shapes.",
+        "pages": [88, 89],
+        "chapter_idx": 3
+      },
+      "chapter_3_lesson_4": {
+        "lesson_title": "Grammar Part 2: Present‑Tense Meaning & Core Particles",
+        "lesson_description": "Explains habitual vs. future readings of the present tense and introduces the particles を, で, に, へ for objects, locations, and goals of movement.",
+        "pages": [90, 91],
+        "chapter_idx": 3
+      },
+      "chapter_3_lesson_5": {
+        "lesson_title": "Grammar Part 3: Time Reference, Invitations, Word Order, Frequency, Topic",
+        "lesson_description": "Covers when to use/omit に with time words, invitation pattern 〜ませんか, flexible sentence order, adverbs of frequency, and extended uses of the topic particle は.",
+        "pages": [92, 94],
+        "chapter_idx": 3
+      },
+      "chapter_3_lesson_6": {
+        "lesson_title": "Expression Notes 4: 行く vs. 来る & Polite Refusal『ちょっと…』",
+        "lesson_description": "Cultural nuances of direction verbs and the indirect way to decline invitations using ちょっと.",
+        "pages": [94, 94],
+        "chapter_idx": 3
+      },
+      "chapter_3_lesson_7": {
+        "lesson_title": "Practice A–C: Verb Drills, Places, and Movement",
+        "lesson_description": "Convert verbs to ます／ません, add objects and locations, and make sentences about going, coming, and returning.",
+        "pages": [95, 96],
+        "chapter_idx": 3
+      },
+      "chapter_3_lesson_8": {
+        "lesson_title": "Practice D–E: Pair Work & Guessing Game",
+        "lesson_description": "Yes/no Q‑A drills about classmates’ activities and a guessing game that reinforces verbs, destinations, and objects.",
+        "pages": [96, 97],
+        "chapter_idx": 3
+      },
+      "chapter_3_lesson_9": {
+        "lesson_title": "Practice Ⅰ: Daily Schedule & Time Questions",
+        "lesson_description": "Read Mary’s timetable, ask and answer 何時に… questions, and add time phrases to earlier practice sentences.",
+        "pages": [98, 98],
+        "chapter_idx": 3
+      },
+      "chapter_3_lesson_10": {
+        "lesson_title": "Practice III & IV: Invitations and Frequency Adverbs",
+        "lesson_description": "Make suggestions with 〜ませんか, invite classmates to activities, and answer how‑often questions using 毎日, よく, あまり, ぜんぜん.",
+        "pages": [99, 100],
+        "chapter_idx": 3
+      },
+      "chapter_3_lesson_11": {
+        "lesson_title": "Review & Culture Note: Weekend Plans and Japanese Houses",
+        "lesson_description": "Comprehensive review Q‑A, weekend‑plan role‑plays, class survey activity, and cultural reading on traditional and modern Japanese homes.",
+        "pages": [100, 101],
+        "chapter_idx": 3
+      },
+      "chapter_4_lesson_1": {
+        "lesson_title": "Dialogues: Asking Directions & The Missed Date",
+        "lesson_description": "Three linked conversations—Mary finding McDonald’s, recounting her solo outing, and clearing up Takeshi’s mix‑up at school.",
+        "pages": [102, 103],
+        "chapter_idx": 4
+      },
+      "chapter_4_lesson_2": {
+        "lesson_title": "Vocabulary: Activities, People, Places, Time & Location Words",
+        "lesson_description": "Key nouns, verbs, adverbs, and the full set of location terms (右, 前, 中, となり, etc.) used throughout the chapter.",
+        "pages": [104, 106],
+        "chapter_idx": 4
+      },
+      "chapter_4_lesson_3": {
+        "lesson_title": "Grammar Part 1: あります／います & Detailed Location Descriptions",
+        "lesson_description": "Using あります／います for existence/possession/events and building X は Y の前です patterns with location vocabulary.",
+        "pages": [107, 109],
+        "chapter_idx": 4
+      },
+      "chapter_4_lesson_4": {
+        "lesson_title": "Grammar Part 2: Past Tense of です & Verbs, Particle も",
+        "lesson_description": "Forms ～でした／～じゃなかったです and ～ました／～ませんでした and extending も to people, things, times, and places.",
+        "pages": [110, 111],
+        "chapter_idx": 4
+      },
+      "chapter_4_lesson_5": {
+        "lesson_title": "Grammar Part 3: Duration (～時間), Quantity (たくさん), Connector と, Expression Notes",
+        "lesson_description": "Expressing how long and how many, placing quantity before/after を, using と for ‘and’ & ‘with’, plus nuances of 前／後ろ and interjections えっ／あっ.",
+        "pages": [112, 113],
+        "chapter_idx": 4
+      },
+      "chapter_4_lesson_6": {
+        "lesson_title": "Culture Note: Japanese National Holidays",
+        "lesson_description": "Overview of official holidays, Golden Week, and movable‑Monday observances.",
+        "pages": [114, 114],
+        "chapter_idx": 4
+      },
+      "chapter_4_lesson_7": {
+        "lesson_title": "Practice Ⅰ: あります／います & Town Map Activities",
+        "lesson_description": "Identify what exists in a town scene, Q‑A about one’s own city, and location drills using a campus map.",
+        "pages": [115, 118],
+        "chapter_idx": 4
+      },
+      "chapter_4_lesson_8": {
+        "lesson_title": "Practice Ⅱ: Schedules, Past‑Tense Q‑A & Price Guessing",
+        "lesson_description": "Read Takeshi’s weekly schedule with あります, past‑tense questions about Prof. Yamashita, and a guessing game on item prices.",
+        "pages": [118, 119],
+        "chapter_idx": 4
+      },
+      "chapter_4_lesson_9": {
+        "lesson_title": "Practice Ⅲ: Past‑Tense Verbs, Mary’s Week & Duration Q‑A",
+        "lesson_description": "Convert verbs to ～ました／～ませんでした, narrate Mary’s last week, answer what/where/when questions, and discuss hours spent on activities.",
+        "pages": [120, 124],
+        "chapter_idx": 4
+      },
+      "chapter_4_lesson_10": {
+        "lesson_title": "Pair Work: Badminton Scheduling & Map B Directions",
+        "lesson_description": "Negotiate mutual free days using personal schedules and ask/answer where buildings are on an alternate city map.",
+        "pages": [125, 126],
+        "chapter_idx": 4
+      },
+      "chapter_4_lesson_11": {
+        "lesson_title": "Useful Expressions: Days, Weeks, Months, Years & Time Words",
+        "lesson_description": "Comprehensive tables for weekdays, month names, dates 1‑31, and relative‑time vocabulary (先週, 来年, etc.).",
+        "pages": [127, 127],
+        "chapter_idx": 4
+      },
+      "chapter_5_lesson_1": {
+        "lesson_title": "Dialogues: Okinawa Beach & Post‑Office Errand",
+        "lesson_description": "Robert and Ken enjoy Okinawa’s seaside, discuss sports plans, buy stamps, and later chat with classmates about the trip.",
+        "pages": [128, 129],
+        "chapter_idx": 5
+      },
+      "chapter_5_lesson_2": {
+        "lesson_title": "Vocabulary: Travel, Weather, Adjectives & Core Verbs",
+        "lesson_description": "Nouns for travel, food, tickets, rooms; full lists of い‑ and な‑adjectives (暑い, きれい etc.), new U‑/Ru‑verbs, and key adverbs/expressions.",
+        "pages": [130, 131],
+        "chapter_idx": 5
+      },
+      "chapter_5_lesson_3": {
+        "lesson_title": "Grammar Part 1: Adjective Classes & Conjugation",
+        "lesson_description": "Forms for い‑adjectives, irregular いい → よ‑, な‑adjective long forms, and present/past affirmative‑negative tables.",
+        "pages": [132, 133],
+        "chapter_idx": 5
+      },
+      "chapter_5_lesson_4": {
+        "lesson_title": "Grammar Part 2: Degree Adverbs & Relational 好き／きらい",
+        "lesson_description": "Using とても・すごく・ちょっと before adjectives, the X は Y が 好き／きらい construction, 大好き／大きらい, and neutral 好きでもきらいでもない.",
+        "pages": [134, 135],
+        "chapter_idx": 5
+      },
+      "chapter_5_lesson_5": {
+        "lesson_title": "Grammar Part 3: Suggestions 〜ましょう／ましょうか & Counters",
+        "lesson_description": "Inviting with long‑form verbs + ましょう／ましょうか and introducing counters (～枚) with post‑noun number placement.",
+        "pages": [135, 136],
+        "chapter_idx": 5
+      },
+      "chapter_5_lesson_6": {
+        "lesson_title": "Practice I: Adjective Forms & Descriptions",
+        "lesson_description": "Drills converting adjectives to present affirmative/negative, describing photos, and Q‑A on room, town, and food qualities.",
+        "pages": [137, 140],
+        "chapter_idx": 5
+      },
+      "chapter_5_lesson_7": {
+        "lesson_title": "Practice II: Past Tense, Preferences & Suggestions",
+        "lesson_description": "Past‑tense adjective work, Okinawa trip memo sentences, dialogue substitutions, likes/dislikes pair work, and ましょう follow‑ups.",
+        "pages": [141, 143],
+        "chapter_idx": 5
+      },
+      "chapter_5_lesson_8": {
+        "lesson_title": "Culture Note: Famous Japanese Festivals",
+        "lesson_description": "Overview of Sapporo Snow, Kyoto Gion, Aomori Nebuta, Tokushima Awa Odori, and Sendai Tanabata festivals with visuals.",
+        "pages": [144, 144],
+        "chapter_idx": 5
+      },
+      "chapter_5_lesson_9": {
+        "lesson_title": "Useful Expressions: At the Post Office",
+        "lesson_description": "Polite phrases for mailing items, postage questions, and vocabulary for postal services (航空便, 速達, 保険).",
+        "pages": [145, 145],
+        "chapter_idx": 5
+      },
+      "chapter_6_lesson_1": {
+        "lesson_title": "Dialogues: In Class, After Class & On the Bus",
+        "lesson_description": "Robert dozes off in Japanese class, borrows Sue’s notes, learns about a test, and helps an elderly lady on the bus.",
+        "pages": [146, 147],
+        "chapter_idx": 6
+      },
+      "chapter_6_lesson_2": {
+        "lesson_title": "Vocabulary: Daily Life Objects, Verbs & Tough Situations",
+        "lesson_description": "Nouns for money, baths, luggage, etc.; the な‑adjective 大変; new U‑, Ru‑, and irregular verbs used in this chapter.",
+        "pages": [148, 149],
+        "chapter_idx": 6
+      },
+      "chapter_6_lesson_3": {
+        "lesson_title": "Grammar Part 1: Te‑form Conjugation Rules",
+        "lesson_description": "How to build the te‑form for ru‑verbs, the five u‑verb sub‑groups, and irregular verbs; includes 行く → 行って exception.",
+        "pages": [150, 151],
+        "chapter_idx": 6
+      },
+      "chapter_6_lesson_4": {
+        "lesson_title": "Grammar Part 2: Requests, Permission & Prohibition",
+        "lesson_description": "Using 〜てください for polite requests, 〜てもいいです／～てもいいですか for permission, and 〜てはいけません for firm prohibitions.",
+        "pages": [152, 153],
+        "chapter_idx": 6
+      },
+      "chapter_6_lesson_5": {
+        "lesson_title": "Grammar Part 3: Sequencing, Reasons (〜から) & Offers (〜ましょうか)",
+        "lesson_description": "Linking actions with te‑forms, giving reasons with から, offering assistance with 〜ましょうか; includes Culture Note on Japan’s school system.",
+        "pages": [153, 154],
+        "chapter_idx": 6
+      },
+      "chapter_6_lesson_6": {
+        "lesson_title": "Expression Notes 7: Late/Early, どうも Variations & Honorific お‑",
+        "lesson_description": "Distinguishing 遅い vs. 遅く, casual uses of どうも, and the nuance‑adding honorific お‑ prefix.",
+        "pages": [155, 155],
+        "chapter_idx": 6
+      },
+      "chapter_6_lesson_7": {
+        "lesson_title": "Practice I: Te‑form & Polite Requests",
+        "lesson_description": "Convert verbs to te‑form, sing the te‑form song, and practice classroom requests like 窓を開けてください。",
+        "pages": [156, 157],
+        "chapter_idx": 6
+      },
+      "chapter_6_lesson_8": {
+        "lesson_title": "Practice II: Permission & Prohibition Drills",
+        "lesson_description": "Ask host‑family permission with 〜てもいいですか and state rules with 〜てはいけません in class and public settings.",
+        "pages": [158, 159],
+        "chapter_idx": 6
+      },
+      "chapter_6_lesson_9": {
+        "lesson_title": "Practice III: Sequencing Actions & Giving Reasons",
+        "lesson_description": "Combine verbs with te‑forms to describe routines and explain plans with から; Q‑A about weekend and study habits.",
+        "pages": [160, 161],
+        "chapter_idx": 6
+      },
+      "chapter_6_lesson_10": {
+        "lesson_title": "Practice IV: Offering Help & Role‑Play Scenarios",
+        "lesson_description": "Use 〜ましょうか to offer assistance, create dialogues for everyday situations, and role‑play borrowing, lending, and favors.",
+        "pages": [162, 164],
+        "chapter_idx": 6
+      },
+      "chapter_6_lesson_11": {
+        "lesson_title": "Useful Expressions: Asking & Giving Directions",
+        "lesson_description": "Key phrases for navigating streets—go straight, turn, cross—and cardinal directions, with a sample dialogue and map cues.",
+        "pages": [165, 165],
+        "chapter_idx": 6
+      },
+      "chapter_7_lesson_1": {
+        "lesson_title": "Dialogues: Family Photo & DVD Invitation",
+        "lesson_description": "Sue shows her family picture to Michiko and Robert invites them to watch a funny DVD.",
+        "pages": [166, 167],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_2": {
+        "lesson_title": "Vocabulary: Family, People & Appearance",
+        "lesson_description": "Core nouns, い‑ & な‑adjectives, verbs, and expressions used to talk about relatives, looks, and daily life.",
+        "pages": [168, 169],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_3": {
+        "lesson_title": "Grammar Part 1: ～ている for Actions & States",
+        "lesson_description": "How ～ている marks actions in progress and resultant states; includes common stative patterns like 太っています／知っています.",
+        "pages": [170, 171, 172],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_4": {
+        "lesson_title": "Grammar Part 2: Describing Physical Traits & Joining Adjectives",
+        "lesson_description": "Use Aさんは髪が長いです; collocations 背が高い／頭がいい; te‑forms of い‑ and な‑adjectives and noun＋です for ‘A is cheap **and** tasty’.",
+        "pages": [173],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_5": {
+        "lesson_title": "Grammar Part 3: Verb‑Stem＋に行く & Counting People",
+        "lesson_description": "Express purpose of motion (映画を見に行く) and count people with ひとり／ふたり／〜にん; includes place‑には X 人います structure.",
+        "pages": [174, 175],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_6": {
+        "lesson_title": "Expression Notes 8: 遊ぶ Uses & 知る vs. わかる",
+        "lesson_description": "Nuances of 遊ぶ (‘hang out’), correct verbs for ‘play’ in sports/games, and polite vs. rude ways to say ‘I don't know’.",
+        "pages": [175],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_7": {
+        "lesson_title": "Practice I: ～ている Actions & Family Facts",
+        "lesson_description": "Identify ongoing actions in pictures and interview classmates about what they were doing at specific times; Q‑A about Sue’s family.",
+        "pages": [176, 177],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_8": {
+        "lesson_title": "Practice II: Describing People’s Looks",
+        "lesson_description": "Use physical‑attribute patterns to describe illustrated characters and classmates; guess who is who from clues.",
+        "pages": [178, 179],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_9": {
+        "lesson_title": "Practice III: Combining Adjectives & Childhood Memories",
+        "lesson_description": "Make sentences with adjective‑te links (静かで大きい) and reflect on childhood home, school, friends, etc.",
+        "pages": [180, 181],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_10": {
+        "lesson_title": "Practice IV: Purpose‑of‑Motion Sentences",
+        "lesson_description": "Create 行きます／来ます sentences with Verb‑Stem＋に; role‑play why characters go to various places.",
+        "pages": [182],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_11": {
+        "lesson_title": "Practice V: Counting People & Summary Q‑A",
+        "lesson_description": "Ask how many people with 〜人 in the room and answer review questions about residence, jobs, and possessions.",
+        "pages": [182, 183],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_12": {
+        "lesson_title": "Culture Note: Japanese Kinship Terms",
+        "lesson_description": "How family members are referred to in other families, formal self‑reference, casual speech, and direct address.",
+        "pages": [184],
+        "chapter_idx": 7
+      },
+      "chapter_7_lesson_13": {
+        "lesson_title": "Useful Expressions: Parts of the Body",
+        "lesson_description": "Vocabulary for body parts with labeled illustrations—essential for describing appearance or ailments.",
+        "pages": [185],
+        "chapter_idx": 7
+      },
+      "chapter_8_lesson_1": {
+        "lesson_title": "Dialogues: BBQ Invitation & Grill Scene",
+        "lesson_description": "Michiko invites friends to a barbecue; at the party Robert cooks and everyone waits for Mary to arrive before toasting.",
+        "pages": [186, 187],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_2": {
+        "lesson_title": "Vocabulary: BBQ, Weather & Weekly Life",
+        "lesson_description": "Key nouns, な‑adjectives, verbs, and expressions about food, weather forecast, jobs, and leisure activities.",
+        "pages": [188, 189],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_3": {
+        "lesson_title": "Grammar Part 1: Short‑Form Paradigm",
+        "lesson_description": "Form all present‑tense affirmative & negative short forms for verbs, adjectives, and noun＋です; irregular patterns included.",
+        "pages": [190, 191],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_4": {
+        "lesson_title": "Grammar Part 2: Informal Speech & Intimacy",
+        "lesson_description": "When and how to drop です／ます, form casual questions without か, and omit だ at sentence end with な‑adjectives & nouns.",
+        "pages": [192],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_5": {
+        "lesson_title": "Grammar Part 3: Quoted & Reported Speech",
+        "lesson_description": "Use short forms＋と思います / と言っていました for thoughts and indirect quotations; preserve original tense.",
+        "pages": [193, 194],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_6": {
+        "lesson_title": "Grammar Part 4: Negative Requests & ‘Like Doing’",
+        "lesson_description": "Make requests with ～ないでください and express likes, dislikes, skills with verb‑phrase＋のが好き／上手／下手.",
+        "pages": [194, 195],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_7": {
+        "lesson_title": "Grammar Part 5: Subject Marker が & 何か／何も",
+        "lesson_description": "Focus and ‘blank‑filling’ が; question‑word subjects; use 何か (something) and 何も＋negative (not … anything).",
+        "pages": [195, 196],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_8": {
+        "lesson_title": "Expression Notes 9: する‑Verbs & Their Nouns",
+        "lesson_description": "How nouns like 勉強/料理 pair with する, appear as objects, and work with 好き／きらい constructions.",
+        "pages": [197],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_9": {
+        "lesson_title": "Practice I: Short‑Form Conjugation Drills",
+        "lesson_description": "Convert verbs & adjectives to negative short forms; answer everyday questions in informal speech.",
+        "pages": [198, 199],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_10": {
+        "lesson_title": "Practice II: Guessing with ～と思います",
+        "lesson_description": "Make and answer guesses about people and places; describe pictures and discuss opinions in groups.",
+        "pages": [200, 201],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_11": {
+        "lesson_title": "Practice III: Reported Speech Activities",
+        "lesson_description": "Report classmates’ statements using ～と言っていました and gather classmates’ weekend schedules.",
+        "pages": [201, 202],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_12": {
+        "lesson_title": "Practice IV: Negative Requests & Skill Preferences",
+        "lesson_description": "Form ‘please don’t …’ sentences and talk about likes/dislikes or abilities with のが好き／上手／下手.",
+        "pages": [202, 203],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_13": {
+        "lesson_title": "Practice V: Subject が – Finding ‘Who’",
+        "lesson_description": "Ask and answer questions like だれがXですか using a data table about Robert, Mary, Sue and Takeshi.",
+        "pages": [203],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_14": {
+        "lesson_title": "Practice VI: 何も・Party Actions & Weekend Plans",
+        "lesson_description": "Say you ‘did nothing’ with 何も＋negative; interview classmates about meals, shopping and TV.",
+        "pages": [204],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_15": {
+        "lesson_title": "Summary & Trip‑Planning Role‑Play",
+        "lesson_description": "Plan a party, gather ‘find‑someone‑who’ data, and negotiate a four‑person day trip using reported speech.",
+        "pages": [205, 206],
+        "chapter_idx": 8
+      },
+      "chapter_8_lesson_16": {
+        "lesson_title": "Culture Note: Japanese Foods & Modern Meals",
+        "lesson_description": "Overview of common Japanese dishes, set meals (定食), and breakfast comparisons between Michiko and Prof. Yamashita.",
+        "pages": [207],
+        "chapter_idx": 8
+      },
+      "chapter_9_lesson_1": {
+        "lesson_title": "Dialogues: Kabuki Invite, Intermission & Concession",
+        "lesson_description": "Takeshi invites Mary to Kabuki, they chat during intermission, and buy bento and drinks at the stand.",
+        "pages": [208, 209],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_2": {
+        "lesson_title": "Vocabulary: Kabuki, Colors, Exams & Hobbies",
+        "lesson_description": "Nouns, adjectives, verbs and counters covering Kabuki, weather, music, sickness, colors and small‑item numbers.",
+        "pages": [210, 211],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_3": {
+        "lesson_title": "Grammar Part 1: Past‑Tense Short Forms",
+        "lesson_description": "Form past affirmative & negative short forms for all verbs, adjectives and noun＋です; irregular patterns (行く, いい).",
+        "pages": [212, 213],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_4": {
+        "lesson_title": "Grammar Part 2: Relative Clauses with Verbs & Adjectives",
+        "lesson_description": "Use short‑form clauses (踊っている人 etc.) to qualify nouns; review examples with adjectives and relational 好きな.",
+        "pages": [213, 214],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_5": {
+        "lesson_title": "Grammar Part 3: ‘Not Yet’ – まだ～ていません",
+        "lesson_description": "Contrast past tense vs. まだ～ていません for unfinished actions; apply to change‑ and activity‑type verbs.",
+        "pages": [215],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_6": {
+        "lesson_title": "Grammar Part 4: Clause＋から (Reason‑Therefore Order)",
+        "lesson_description": "Embed reasons before situations with から, showing both polite & short‑form styles and common request patterns.",
+        "pages": [216],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_7": {
+        "lesson_title": "Practice I: Short‑Form Past Conjugation & Informal Q&A",
+        "lesson_description": "Drills converting verbs/adjectives to past short forms; ask & answer daily‑life questions in casual speech.",
+        "pages": [217, 218, 219],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_8": {
+        "lesson_title": "Practice II: Childhood & Guessing with ～と思います",
+        "lesson_description": "Discuss childhood traits, make guesses about Mary & Yamashita‑sensei, and describe classmates’ pasts.",
+        "pages": [219, 220],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_9": {
+        "lesson_title": "Practice III: Reported Speech ～と言っていました",
+        "lesson_description": "Report statements about music tastes, Kabuki, illness, and interview classmates then relay their answers.",
+        "pages": [221],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_10": {
+        "lesson_title": "Practice IV: Identifying People with ～ている",
+        "lesson_description": "Use clauses like めがねをかけている人 to pick out people in pictures and describe classmates’ mimed actions.",
+        "pages": [221, 222],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_11": {
+        "lesson_title": "Practice V: まだ～ていません Dialogues & Invitations",
+        "lesson_description": "Answer ‘Have you… yet?’ with まだ～ていません; invite friends if not, or ask for opinions if already done.",
+        "pages": [222, 223],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_12": {
+        "lesson_title": "Practice VI: Reason Clauses – Matching & Completion",
+        "lesson_description": "Match sentences halves and add personal reasons using から to explain lack of money, study motives, etc.",
+        "pages": [223, 224],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_13": {
+        "lesson_title": "Summary Tasks: Fast‑Food Ordering & Q‑A Marathon",
+        "lesson_description": "Role‑play ordering from a menu, answer 13 personal questions, and picture‑pairwork with classroom scene.",
+        "pages": [224, 225],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_14": {
+        "lesson_title": "Culture Note: Japanese Traditional Performing & Martial Arts",
+        "lesson_description": "Brief introductions to Kabuki, Bunraku, Rakugo, Noh, Sumo, Judo, Kendo, Tea ceremony and Ikebana.",
+        "pages": [226],
+        "chapter_idx": 9
+      },
+      "chapter_9_lesson_15": {
+        "lesson_title": "Useful Expressions: Colors & Color‑Related Idioms",
+        "lesson_description": "List of color adjectives/nouns, how to use them as modifiers, and idiomatic examples like 顔が青い.",
+        "pages": [227],
+        "chapter_idx": 9
+      },
+      "chapter_10_lesson_1": {
+        "lesson_title": "Dialogues: Winter‑Vacation Chat & Travel‑Agency Booking",
+        "lesson_description": "Mary and Takeshi compare Korea vs. Taiwan, discuss money & souvenirs; Mary reserves an Osaka → Seoul flight.",
+        "pages": [228, 229],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_2": {
+        "lesson_title": "Vocabulary: Seasons, Travel, Money & Everyday Life",
+        "lesson_description": "Nouns, adjectives, verbs and counters covering seasons, clothes, transport, sports, colors, medicine, flights, etc.",
+        "pages": [230, 231],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_3": {
+        "lesson_title": "Grammar Part 1: Comparisons Between Two Items",
+        "lesson_description": "Use AのほうがBより and questions with どちら／どっち to say which is bigger, faster, cheaper, etc.",
+        "pages": [232],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_4": {
+        "lesson_title": "Grammar Part 2: Superlatives & Pronoun の",
+        "lesson_description": "Say what’s best with いちばん, choose items with adjectives/nouns + の to avoid repetition.",
+        "pages": [233],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_5": {
+        "lesson_title": "Grammar Part 3: Intention ～つもり",
+        "lesson_description": "Present‑short verb + つもり to express plans or non‑plans for the future.",
+        "pages": [234],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_6": {
+        "lesson_title": "Grammar Part 4: Adjective／Noun + なる (Becoming)",
+        "lesson_description": "Form changes with 暖かくなる, 静かになる, 会社員になる; relative vs. absolute change.",
+        "pages": [234, 235],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_7": {
+        "lesson_title": "Grammar Part 5: Indefinites—どこか・どこにも・だれか・何も",
+        "lesson_description": "Say ‘somewhere’, ‘nowhere’, ‘someone’, etc., and see how they merge with particles like に／へ.",
+        "pages": [235],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_8": {
+        "lesson_title": "Grammar Part 6: で for Means & Tools + Sentence‑final が／けど",
+        "lesson_description": "Use で with transport & instruments (バスで, はしで) and polite sentence‑final が to yield the floor.",
+        "pages": [236],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_9": {
+        "lesson_title": "Practice I: Comparatives Between Two",
+        "lesson_description": "Charts & Q‑A on trains vs. buses, islands’ sizes, people’s height/age to master Aより constructions.",
+        "pages": [237, 238, 239],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_10": {
+        "lesson_title": "Practice II: Superlatives & Preferences",
+        "lesson_description": "Ask classmates ‘Which is best?’ and produce superlative statements about food, people, seasons, etc.",
+        "pages": [238, 239],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_11": {
+        "lesson_title": "Practice III: Pronoun の & Choosing Items",
+        "lesson_description": "Dorm‑fridge ownership drill and pair Q‑A picking gloves, pants, guidebooks using 赤いの／安いの, etc.",
+        "pages": [240, 241],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_12": {
+        "lesson_title": "Practice IV: Future Plans with ～つもり",
+        "lesson_description": "State what you will/won’t do next week, interview partners about study, trips, TV, and exams.",
+        "pages": [241, 242],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_13": {
+        "lesson_title": "Practice V: Becoming—Adjective + なる",
+        "lesson_description": "Describe picture changes (きれい→きれいになりました) and fill‑in‑blanks using 暑く／静かに etc.",
+        "pages": [242, 243],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_14": {
+        "lesson_title": "Practice VI: Something / Nothing / Somewhere Drills",
+        "lesson_description": "Answer charts about Mary & Takeshi (何か食べましたか), then interview classmates with 何も／どこか.",
+        "pages": [244, 245],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_15": {
+        "lesson_title": "Practice VII: Transportation で & Time Needed",
+        "lesson_description": "Use で and どのぐらい to say ‘I bike to the station in 10 min’; survey classmates’ commutes.",
+        "pages": [245, 246],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_16": {
+        "lesson_title": "Summary Tasks: Winter‑Vacation Plans & Ticket Reservations",
+        "lesson_description": "Q‑A on Mary’s Korea trip, pair interviews, fast travel‑agency role‑plays with flights & seat types.",
+        "pages": [246, 247],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_17": {
+        "lesson_title": "Culture Note: Public Transportation & Money‑Saving Passes",
+        "lesson_description": "Explains JR Pass, Seishun 18 kippu, highway buses, with Shinkansen & bus photos.",
+        "pages": [247],
+        "chapter_idx": 10
+      },
+      "chapter_10_lesson_18": {
+        "lesson_title": "Useful Expressions: At the Station & Train Announcements",
+        "lesson_description": "Vocabulary for train types, tickets, seats, station areas, PA phrases and sample Q‑A.",
+        "pages": [248, 249],
+        "chapter_idx": 10
+      },
+      
+  }
+  
