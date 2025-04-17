@@ -13,7 +13,7 @@ CHAPTER_METADATA_PATH = "data/chapter_metadata.json"
 PAGES_PATH = "data/pages.json"
 LESSONS_PATH = "data/page_data.json"
 
-#
+# Load pages data
 if os.path.exists(PAGES_PATH):
     with open(PAGES_PATH, "r", encoding="utf-8") as f:
         extracted_text = json.load(f)

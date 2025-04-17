@@ -8,7 +8,7 @@ Genki MCP
 
 ## Project Overview
 
-**genki-mcp** is a Python project inspired by the structure and content of the "Genki I" Japanese textbook. It provides structured chapter outlines and metadata, designed for language learners, educators, and developers interested in building tools or bots around the Genki textbook. This project does **not** include or distribute the original copyrighted text from the Genki book. Any references to content are based on publicly available information and user-supplied data.
+**genki-mcp** is a Python project inspired by the structure and **conversational** content of the "Genki I" Japanese textbook (Second Edition). This project focuses **only on the conversational chapters and content** of the Genki book, and **does not include or cover the Reading and Writing sections** (which begin on page 289+ in the textbook). It provides structured chapter outlines and metadata, designed for language learners, educators, and developers interested in building tools or bots around the Genki textbook. This project does **not** include or distribute the original copyrighted text from the Genki book. Any references to content are based on publicly available information and user-supplied data. The structure and metadata are **inspired by** the Genki Second Edition textbook, but this project is not affiliated with or endorsed by the textbook's publishers.
 
 ---
 
@@ -30,13 +30,22 @@ Genki MCP
 ├── .env                     # Environment variables (e.g., OpenAI API key)
 ├── data/
 │   ├── Genki Textbook 2nd Edition.pdf   # (User-supplied) source textbook PDF (not included in repo)
-│   └── pdf_images/          # (Likely) contains images of PDF pages (user-generated)
-├── output/
-│   └── extracted_text.json  # Extracted and OCR'd text, organized by page (user-generated)
+│   ├── chapter_metadata.json            # Chapter metadata (conversational chapters only)
+│   ├── lessons.json                     # Lesson-level metadata (conversational content)
+│   ├── pages.json                       # Page-level extracted text (conversational content)
+│   └── pdf_images/                      # (Likely) contains images of PDF pages (user-generated)
+├── image/
+│   └── genki_mcp_logo.png               # Project logo
 ├── notebooks/
-│   └── scanned_pdf_parsing.ipynb # Jupyter notebook for PDF/OCR processing (optional)
+│   ├── scanned_pdf_parsing.ipynb        # Jupyter notebook for PDF/OCR processing (optional)
+│   └── chapters_to_lessons.ipynb        # Jupyter notebook for lesson/chapter mapping (optional)
+├── .gitignore
+├── .python-version
+├── uv.lock
 └── README.md                # This file
 ```
+
+> **Note:** There is no `output/` directory by default. If you extract text using the provided notebook, you may create an `output/` directory for your own use.
 
 ---
 
