@@ -2,6 +2,7 @@ import os
 import json
 from typing import Any
 from mcp.server.fastmcp import FastMCP
+import mcp.types as types
 
 # Initialize FastMCP server
 mcp = FastMCP("genki")
@@ -212,6 +213,56 @@ async def list_genki_lessons_for_chapter(chapter_idx: str) -> str:
                     """.strip()
         result.append(summary)
     return "\n\n---\n\n".join(result)
+
+
+@mcp.tool()
+async def list_genki_lessons() -> str:
+    """List all available Genki lessons with metadata.
+
+    Returns:
+        A string summary of all available lessons, including lesson key, title, description, and page range.
+    """
+    result = []
+    for lesson_key, lesson in GENKI_LESSONS.items():
+        start, end = lesson["pages"]
+        page_range = f"{start} - {end}" if end != start else f"{start}"
+        summary = f"""
+            Lesson key: {lesson_key}
+            Title: {lesson['lesson_title']}
+            Description: {lesson['lesson_description']}
+            Pages: {page_range}
+                    """.strip()
+        result.append(summary)
+    total = len(GENKI_LESSONS)
+    return f"Total lessons: {total}\n\n" + "\n\n---\n\n".join(result)
+
+
+# --- MCP Prompt for Lesson Search (FastMCP style) ---
+@mcp.prompt()
+def find_relevant_lessons_prompt(query: str) -> list[types.PromptMessage]:
+    """Given a user query, return a list of lesson_keys from the Genki lessons that are relevant to the user's request."""
+    lesson_summaries = []
+    for lesson_key, lesson in GENKI_LESSONS.items():
+        lesson_summaries.append(
+            f"{lesson_key}: {lesson['lesson_title']}\n{lesson['lesson_description']}"
+        )
+    lessons_blob = "\n\n".join(lesson_summaries)
+    prompt_text = f"""
+        You are an expert at mapping user learning requests to relevant Japanese lessons.
+
+        Here are all available lessons from the Genki textbook, with their keys, titles, and descriptions:
+
+        {lessons_blob}
+
+        Given the following user query, return a Python list of the lesson_keys (e.g., ['chapter_1_lesson_2', ...]) that are most relevant to what the user is asking for. Only include lesson_keys that are a good match. If none are relevant, return an empty list.
+
+        User query: {query}
+        """
+    return [
+        types.PromptMessage(
+            role="user", content=types.TextContent(type="text", text=prompt_text)
+        )
+    ]
 
 
 # --- Entrypoint ---
