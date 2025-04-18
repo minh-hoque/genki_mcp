@@ -16,7 +16,7 @@ Genki MCP
 
 - **Chapter Structuring**: Organizes chapter outlines and metadata inspired by the Genki textbook, with page ranges and summaries.
 - **Lesson Structuring**: Provides lesson-level metadata and retrieval, including lesson titles, descriptions, and page ranges.
-- **MCP Server**: Exposes chapter and lesson metadata, as well as extracted text, via an MCP (Modular Command Platform) server, enabling integration with bots, chat interfaces, or other tools.
+- **MCP Server**: Exposes chapter and lesson metadata, as well as extracted text, via an MCP (Model Context Protocol) server, enabling integration with bots, chat interfaces, or other tools.
 - **Extensible Tools**: Provides MCP tools to list chapters, lessons, retrieve outlines, and search for relevant lessons programmatically.
 - **Lesson Search Prompt**: Includes a prompt tool to map user learning requests to relevant lessons for LLM/bot use.
 - **Jupyter Notebook (Optional)**: Includes a notebook for PDF parsing and OCR experimentation (requires Tesseract, only if you want to re-extract text from your own legally obtained copy).
@@ -155,7 +155,7 @@ These tools can be called programmatically or integrated into bots and chat inte
 
 - Python 3.12+
 - [uv](https://github.com/astral-sh/uv) (for dependency management)
-- [mcp](https://pypi.org/project/mcp/) (Modular Command Platform)
+- [mcp](https://pypi.org/project/mcp/) (Model Context Protocol)
 - openai, httpx, ipykernel, pdf2image, pillow, pytesseract, python-dotenv
 - **Tesseract OCR is only required if you want to use the notebook for re-extraction from your own copy.**
 
