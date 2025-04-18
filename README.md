@@ -15,8 +15,10 @@ Genki MCP
 ## Features
 
 - **Chapter Structuring**: Organizes chapter outlines and metadata inspired by the Genki textbook, with page ranges and summaries.
-- **MCP Server**: Exposes chapter metadata and user-supplied content via an MCP (Modular Command Platform) server, enabling integration with bots, chat interfaces, or other tools.
-- **Extensible Tools**: Provides MCP tools to list chapters and retrieve chapter outlines programmatically.
+- **Lesson Structuring**: Provides lesson-level metadata and retrieval, including lesson titles, descriptions, and page ranges.
+- **MCP Server**: Exposes chapter and lesson metadata, as well as extracted text, via an MCP (Modular Command Platform) server, enabling integration with bots, chat interfaces, or other tools.
+- **Extensible Tools**: Provides MCP tools to list chapters, lessons, retrieve outlines, and search for relevant lessons programmatically.
+- **Lesson Search Prompt**: Includes a prompt tool to map user learning requests to relevant lessons for LLM/bot use.
 - **Jupyter Notebook (Optional)**: Includes a notebook for PDF parsing and OCR experimentation (requires Tesseract, only if you want to re-extract text from your own legally obtained copy).
 
 ---
@@ -97,8 +99,15 @@ uv run main.py
 
 ### 2. **Available MCP Tools**
 
-- `get_genki_chapter(chapter_number: str)`: Retrieve structured outline for a specific chapter.
-- `list_genki_chapters()`: List all available chapters with metadata.
+The following MCP tools and prompts are available via the server (see `main.py`):
+
+- `get_genki_chapter(chapter_number: str)`: Retrieve parsed and structured text from a Genki textbook chapter.
+- `list_genki_chapters()`: List all available Genki chapters with metadata (number, title, description, page range).
+- `get_chapter_based_on_user_request(chapter_number: str)`: Retrieve a chapter based on a user's learning request (maps topics to chapters).
+- `get_genki_lesson(lesson_key: str)`: Retrieve parsed and structured text from a specific Genki lesson in a chapter.
+- `list_genki_lessons_for_chapter(chapter_idx: str)`: List all lessons for a given chapter with metadata (lesson key, title, description, page range).
+- `list_genki_lessons()`: List all available Genki lessons in all chapters with metadata.
+- `find_relevant_lessons_prompt(query: str)`: (Prompt) Given a user query, returns a list of lesson_keys from the Genki lessons that are relevant to the user's request (for use in LLM/bot integrations).
 
 These tools can be called programmatically or integrated into bots and chat interfaces using the MCP framework.
 
